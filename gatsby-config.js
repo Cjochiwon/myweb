@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby ㅎㅇ`,
+    title: `즐거운 수업을 듣는 여러가지 방법`,
     author: {
-      name: `치`,
-      summary: `강사님s.`,
+      name: `김정석강사님`,
+      summary: `수업은 지루하다고 느낄수있다 하지만 학교생활을 12년간 하기 위해서는 많은 수업 전략들이 필요하다 .
+      어떤 전략들이 있을지 알아보자.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `수업이 지루할수도 있긴하다.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
     social: {
       twitter: `kylemathews`,
